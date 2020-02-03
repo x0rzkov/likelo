@@ -23,7 +23,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/arastu/likelo"
+	"github.com/x0rzkov/likelo"
 	"github.com/spf13/cobra"
 )
 
